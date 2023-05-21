@@ -26,7 +26,7 @@ The similarity score is returned as a JSON response, indicating the percentage o
 
 Deployment:
 
-The Resume Similarity Scoring API is live and can be accessed at https://your-username.pythonanywhere.com/. Users can leverage the API to evaluate the suitability of resumes for specific job descriptions quickly and accurately.
+The Resume Similarity Scoring API is live and can be accessed at http://furkan121.pythonanywhere.com/ Users can leverage the API to evaluate the suitability of resumes for specific job descriptions quickly and accurately.
 
 For detailed instructions on how to use the API, refer to the documentation provided in the repository.
 
