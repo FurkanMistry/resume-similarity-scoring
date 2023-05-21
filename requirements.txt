@@ -1,0 +1,6 @@
+Flask==2.2.2
+docx2txt==0.8
+regex==2022.9.13
+nltk==3.7
+scikit-learn==1.1.1
+PyPDF2==2.11.1
